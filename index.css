@@ -1,0 +1,32 @@
+body { 
+  background: #F6F4EB; 
+}
+
+h1 {
+	letter-spacing: 10px;
+	font-size: 40px;
+}
+
+.center {
+	text-align: center;
+	top: 40%;
+	position: absolute;
+	width: 100%;
+}
+
+#description {
+	top: 50%;
+}
+
+.footer {
+	text-align: right;
+	position: absolute;
+	top: 95%;
+	width: 98%;
+	font-size: 11px;
+}
+
+
+.raleway {
+  font-family: 'Raleway', sans-serif;
+}
